@@ -14,7 +14,7 @@ Here are past competitions to help you better understand the TPU Coder Cup
 | :-: | :- |
 | 1 | [2022 Social Computing Innovation Competition](https://en.sophgo.com/competition/introduction.html?id=6) |
 | 2 | [2022 CCF Big Data and Computational Intelligence Competition - Computing Energy Track-Crowd density estimation based on TPU platform](https://en.sophgo.com/competition/introduction.html?id=1) |
-| 3 | [The First AI Application Challenge - Implementation of UNet model deployment based on TPU-MLIR](https://en.sophgo.com/competition/introduction.html?id=3) |
+| 3 | [The 1st AI Application Challenge - Implementation of UNet model deployment based on TPU-MLIR](https://en.sophgo.com/competition/introduction.html?id=3) |
 | 4 | [The 7th National Undergraduate Integrated Circuit Innovation and Entrepreneurship Competition - Sophgo Cup](https://en.sophgo.com/competition/introduction.html?id=7) |
 | 5 | [CAAI-BDSC 2023 Social Computing Innovation Competition - Algorithm and Model Competition](https://en.sophgo.com/competition/introduction.html?id=8) |
 | 6 | [The 18th Chinese Postgraduate Electronic Design Competition-Sophgo Cup](https://en.sophgo.com/competition/introduction.html?id=9) |
