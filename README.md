@@ -43,7 +43,7 @@ Here are past competitions to help you better understand the TPU Coder Cup
 [SOPHON.NET](https://cloud.sophgo.com/developer/cloudSpace/index?lang=EN) provides a **cloud** development space integrating training and reasoning to provide convenient cloud resources for algorithm development and testing which includes **Standard Cloud Development Space**, **TPU Programming Competition Cloud Space**, and **Cloud Desktop Space**. So algorithm development is no longer limited to hardware. The **TPU Programming Competition Cloud Space** offers a **dedicated** cloud test environment for the **TPU Programming Competition**, utilizing the Ubuntu system. [Cloud Space Usage Tutorial](https://cloud.sophgo.com/static/tpu-en.pdf) introduces the application and usage details of the platform.
 
 
-## Sophon SDK
+## SOPHON SDK
 **Sophgo** provides a series of original deep learning development kits including **BMNNSDK**, **Sophon-Inference**, **TPU-MLIR**, **Model Zoo**, etc. Brief description and links of are as follows.
 ![sophon_inference](https://github.com/sophgo/TPU-Coder-Cup/assets/117440498/55005a31-5284-4876-bf4c-f442044e4e69)
 
