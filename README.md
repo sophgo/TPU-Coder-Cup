@@ -58,7 +58,9 @@ Here are past competitions to help you better understand the TPU Coder Cup
 
 <img width="248" alt="image" src="https://github.com/sophgo/TPU-Coder-Cup/assets/117440498/9e928e8a-ea63-41f2-86da-7ed46192705c">
 
+
 **Case Department** is one of the core departments of the open-source competition committee. It is responsible for formulating competition topics, formats, and managing the competition operations. It is a gathering place for technical experts. 
+
 **Main Responsibilities:**
 1.	Draft competition task documents, including topic introduction, data description, competition process, award settings, evaluation criteria, etc.
 2.	Manage the competition operations. Responsible for answering questions and providing technical support to the competition community, drafting competition baselines, and reviewing and reproducing participants' submissions. Requirements:
@@ -66,6 +68,7 @@ Here are past competitions to help you better understand the TPU Coder Cup
 4.	Strong sense of responsibility, good teamwork spirit, and communication skills.
 
 **Publicity Department** is dedicated to building a more international image for the TPU programming competition. It is responsible for event promotion and design matters. 
+
 **Main Responsibilities:**
 1.	Promote the competition events.
 2.	Plan and organize activities.
