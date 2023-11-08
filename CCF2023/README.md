@@ -85,7 +85,7 @@ model_deploy.py \
 
 ## 3 模型推理
 
-推理部分均在算能云开发空间内完成，云空间的使用与环境配置请参考[CCF BDCI-算能竞赛云空间使用说明](https://s3.cn-north-1.amazonaws.com.cn/files.datafountain.cn/uploads/images/competitions/666/SOPHNET%20%E4%BA%91%E5%BC%80%E5%8F%91%E7%A9%BA%E9%97%B4%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C-283575.pdf)。
+推理部分均在算能云开发空间内完成，云空间的使用与环境配置请参考[CCF BDCI-算能竞赛云空间使用说明](https://s3.cn-north-1.amazonaws.com.cn/files.datafountain.cn/uploads/images/competitions/666/SOPHNET%20%E4%BA%91%E5%BC%80%E5%8F%91%E7%A9%BA%E9%97%B4%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8Cv2.0-928128.pdf)。
 
 ### 3.1 准备工作
 
